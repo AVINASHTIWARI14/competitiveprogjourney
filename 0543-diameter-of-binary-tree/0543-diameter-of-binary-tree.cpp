@@ -10,21 +10,20 @@
  * };
  */
 class Solution {
+public:
+        int value=0;
     int height(TreeNode*root){
         if(root==NULL){
             return 0;
         }
-        return 1+max(height(root->right),height(root->left));
+      int  lh=height(root->left);
+        int rh=height(root->right);
+        value=max(value,(lh+rh));
+
+        return 1+max(rh,lh);
     }
-public:
     int diameterOfBinaryTree(TreeNode* root) {
-        if(root==NULL){
-            return 0;
-        }
-        int lef=diameterOfBinaryTree(root->left);
-        int rig=diameterOfBinaryTree(root->right);
-       int currdia=height(root->left)+height(root->right);
-        return max(currdia,max(lef,rig));
-        
+    height(root);
+    return value;
     }
 };
