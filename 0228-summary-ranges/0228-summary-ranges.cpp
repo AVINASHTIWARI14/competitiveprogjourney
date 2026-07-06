@@ -6,7 +6,7 @@ public:
         int end=0;
         while(start<nums.size()){
             string st="";
-            while(end+1<nums.size()&&(long long)nums[end+1]-(long long)nums[start]==(end+1)-start){
+            while(end+1<nums.size()&&1ll*nums[end+1]-nums[start]==(end+1)-start){
                 end++;
             }
             if(end==start){
