@@ -57,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
