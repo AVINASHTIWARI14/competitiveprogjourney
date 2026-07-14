@@ -1,35 +1,33 @@
 class Solution {
-public:
-        int peri =0;
-        int n;
-        int m;
-    void dfs(vector<vector<int>>& grid,int i ,int j){
+    int dfs(vector<vector<int>>& grid,int i , int j,int n ,int m){
+            int res=0;
         if(i<0||i>=n||j<0||j>=m||grid[i][j]==0){
-            peri++;
-            return;
-
+          return 1;
         }
+        
         if(grid[i][j]==-1){
-            return;
+          return 0;
         }
         grid[i][j]=-1;
-        dfs(grid,i+1,j);
-        dfs(grid,i-1,j);
-        dfs(grid,i,j+1);
-        dfs(grid,i,j-1);
-    }
+       res+= dfs(grid,i+1,j,n,m);
+        res+=dfs(grid,i-1,j,n,m);
+        res+=dfs(grid,i,j+1,n,m);
+        res+=dfs(grid,i,j-1,n,m);
+        return res;
+}
+public:
     int islandPerimeter(vector<vector<int>>& grid) {
-        n=grid.size();
-        m=grid[0].size();
-        // peri=0;
+        int peri=0;
+        int  n=grid.size();
+        int m=grid[0].size();
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(grid[i][j]==1){
-                    dfs(grid, i ,j);
-                    return peri;
+             peri=   dfs(grid , i ,j,n ,m );
+            //   return peri;
                 }
             }
         }
-        return -1;  
+        return peri;
     }
 };
