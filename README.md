@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0463-island-perimeter](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0463-island-perimeter) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0228-summary-ranges) |
 | [0463-island-perimeter](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0463-island-perimeter) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0547-number-of-provinces) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0547-number-of-provinces) |
 ## Graph Theory
@@ -88,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0733-flood-fill) |
