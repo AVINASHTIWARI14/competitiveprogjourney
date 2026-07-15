@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3870-count-commas-in-range) |
 ## Breadth-First Search
 |  |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0733-flood-fill) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
