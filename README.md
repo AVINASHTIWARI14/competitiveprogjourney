@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0228-summary-ranges) |
 | [0463-island-perimeter](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0994-rotting-oranges) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0994-rotting-oranges) |
 ## Number Theory
 |  |
 | ------- |
