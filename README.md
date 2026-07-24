@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0172-factorial-trailing-zeroes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
