@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0228-summary-ranges) |
 | [0463-island-perimeter](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0463-island-perimeter) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0994-rotting-oranges) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0172-factorial-trailing-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
