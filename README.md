@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0463-island-perimeter) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0733-flood-fill) |
+| [0877-stone-game](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1207-unique-number-of-occurrences) |
@@ -80,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0005-longest-palindromic-substring) |
+| [0877-stone-game](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0172-factorial-trailing-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3536-maximum-product-of-two-digits) |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
