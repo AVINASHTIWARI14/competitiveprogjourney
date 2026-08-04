@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1207-unique-number-of-occurrences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1672-richest-customer-wealth](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3074-apple-redistribution-into-boxes) |
 | [3731-find-missing-elements](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3731-find-missing-elements) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0994-rotting-oranges) |
+| [1672-richest-customer-wealth](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1672-richest-customer-wealth) |
 ## Number Theory
 |  |
 | ------- |
