@@ -1,19 +1,17 @@
 class Solution {
-    vector<int>dp;
+    vector<int>res;
 public:
     int climbStairs(int n) {
-        if(dp.empty()){
-            dp.assign(n+1,-1);
+        if(res.empty()){
+            res.assign(n+1,-1);
         }
-        if(n<=1){
-            return 1;
+    
+        res[0]=1;
+        res[1]=1;
+        for(int i=2;i<res.size();i++){
+            res[i]=res[i-1]+res[i-2];
         }
-        if(dp[n]!=-1){
-            return dp[n];
-        }
-        
-         return   dp[n]=climbStairs(n-1)+climbStairs(n-2);
-        
-
+       return res[n];
+       
     }
 };
