@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3074-apple-redistribution-into-boxes) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0389-find-the-difference) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
 | ------- |
