@@ -81,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0005-longest-palindromic-substring) |
+| [0443-string-compression](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0443-string-compression) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0005-longest-palindromic-substring) |
 | [0389-find-the-difference](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0389-find-the-difference) |
+| [0443-string-compression](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0443-string-compression) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
