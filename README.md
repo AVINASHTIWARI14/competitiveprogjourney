@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1672-richest-customer-wealth](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2109-adding-spaces-to-a-string) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0005-longest-palindromic-substring) |
 | [0443-string-compression](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0443-string-compression) |
+| [2109-adding-spaces-to-a-string](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2109-adding-spaces-to-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0443-string-compression) |
 | [0771-jewels-and-stones](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0771-jewels-and-stones) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2109-adding-spaces-to-a-string](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2109-adding-spaces-to-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1441-build-an-array-with-stack-operations) |
+| [2109-adding-spaces-to-a-string](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2109-adding-spaces-to-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3726-remove-zeros-in-decimal-representation) |
