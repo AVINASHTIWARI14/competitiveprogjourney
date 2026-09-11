@@ -11,7 +11,7 @@ public:
             }
 
             if (n[m] >= n[l]) {
-                if (n[l] <= t && t < n[m]) {
+                if (n[l] <= t && t <=n[m]) {
                     h = m - 1;
                 } else {
                     l = m + 1;
