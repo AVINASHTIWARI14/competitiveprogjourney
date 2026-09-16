@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0278-first-bad-version) |
 | [1004-max-consecutive-ones-iii](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1004-max-consecutive-ones-iii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Sliding Window
@@ -262,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0836-rectangle-overlap) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
