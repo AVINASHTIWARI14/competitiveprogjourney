@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0228-summary-ranges) |
+| [0349-intersection-of-two-arrays](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0463-island-perimeter) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0733-flood-fill) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1207-unique-number-of-occurrences) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0005-longest-palindromic-substring) |
+| [0349-intersection-of-two-arrays](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0443-string-compression) |
 | [2109-adding-spaces-to-a-string](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2109-adding-spaces-to-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1004-max-consecutive-ones-iii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Sliding Window
