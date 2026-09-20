@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3498-reverse-degree-of-a-string) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 ## Dynamic Programming
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2109-adding-spaces-to-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3925-concatenate-array-with-reverse) |
