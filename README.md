@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2109-adding-spaces-to-a-string) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2961-double-modular-exponentiation](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2961-double-modular-exponentiation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3074-apple-redistribution-into-boxes) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2806-account-balance-after-rounded-purchase) |
+| [2961-double-modular-exponentiation](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2961-double-modular-exponentiation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1441-build-an-array-with-stack-operations) |
 | [2109-adding-spaces-to-a-string](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2109-adding-spaces-to-a-string) |
+| [2961-double-modular-exponentiation](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2961-double-modular-exponentiation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3498-reverse-degree-of-a-string) |
