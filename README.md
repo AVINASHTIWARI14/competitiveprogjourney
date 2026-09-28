@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3925-concatenate-array-with-reverse) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0443-string-compression) |
 | [2109-adding-spaces-to-a-string](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2109-adding-spaces-to-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## String
 |  |
 | ------- |
