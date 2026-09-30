@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1386-cinema-seat-allocation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1441-build-an-array-with-stack-operations) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1672-richest-customer-wealth) |
 | [1833-maximum-ice-cream-bars](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0994-rotting-oranges) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1672-richest-customer-wealth) |
 ## Number Theory
 |  |
