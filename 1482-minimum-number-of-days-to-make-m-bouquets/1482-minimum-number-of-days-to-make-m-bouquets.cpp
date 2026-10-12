@@ -20,7 +20,7 @@ class Solution {
                 count=0;
                 j++;
             }
-            if(j-i+1>=k){
+            if(j-i>=k){
                 if(count==k){
                     days++;
                     count=0;
@@ -28,7 +28,7 @@ class Solution {
                 // count=0;
                     // j++;
                     // i=j;
-                    i++;
+                    // i++;
             }
             
 
