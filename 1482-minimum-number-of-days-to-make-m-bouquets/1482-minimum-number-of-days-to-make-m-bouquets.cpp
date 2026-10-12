@@ -10,7 +10,7 @@ class Solution {
         cout<<endl;
         int count=0;
         int days=0;
-        int i=0;
+        
         int j=0;
         while(j<zero.size()){
             if(zero[j]==1){
@@ -20,15 +20,12 @@ class Solution {
                 count=0;
                 j++;
             }
-            if(j-i>=k){
+            if(j>=k){
                 if(count==k){
                     days++;
                     count=0;
                 }
-                // count=0;
-                    // j++;
-                    // i=j;
-                    // i++;
+              
             }
             
 
