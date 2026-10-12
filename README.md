@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1386-cinema-seat-allocation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1441-build-an-array-with-stack-operations) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1672-richest-customer-wealth) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Sliding Window
 |  |
