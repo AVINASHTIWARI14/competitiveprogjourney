@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3606-coupon-code-validator) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3074-apple-redistribution-into-boxes) |
 | [3536-maximum-product-of-two-digits](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3606-coupon-code-validator) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3074-apple-redistribution-into-boxes) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
 | ------- |
