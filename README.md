@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2109-adding-spaces-to-a-string) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2961-double-modular-exponentiation](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2961-double-modular-exponentiation) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1386-cinema-seat-allocation) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0994-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1672-richest-customer-wealth) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Number Theory
 |  |
 | ------- |
