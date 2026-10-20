@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0443-string-compression) |
 | [2109-adding-spaces-to-a-string](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2109-adding-spaces-to-a-string) |
+| [3794-reverse-string-prefix](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## String
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3498-reverse-degree-of-a-string) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3606-coupon-code-validator](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3606-coupon-code-validator) |
+| [3794-reverse-string-prefix](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
