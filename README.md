@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2109-adding-spaces-to-a-string) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2748-number-of-beautiful-pairs](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2748-number-of-beautiful-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2961-double-modular-exponentiation](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2961-double-modular-exponentiation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1386-cinema-seat-allocation) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2748-number-of-beautiful-pairs](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2748-number-of-beautiful-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2748-number-of-beautiful-pairs](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2748-number-of-beautiful-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2748-number-of-beautiful-pairs](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2748-number-of-beautiful-pairs) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2961-double-modular-exponentiation](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2961-double-modular-exponentiation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2748-number-of-beautiful-pairs](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2748-number-of-beautiful-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
