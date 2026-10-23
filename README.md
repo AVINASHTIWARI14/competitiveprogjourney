@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3074-apple-redistribution-into-boxes) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-number-of-beautiful-pairs](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2748-number-of-beautiful-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3606-coupon-code-validator](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3606-coupon-code-validator) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2748-number-of-beautiful-pairs](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2748-number-of-beautiful-pairs) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
