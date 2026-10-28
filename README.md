@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0443-string-compression) |
 | [2109-adding-spaces-to-a-string](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2109-adding-spaces-to-a-string) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0443-string-compression) |
 | [0771-jewels-and-stones](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0771-jewels-and-stones) |
