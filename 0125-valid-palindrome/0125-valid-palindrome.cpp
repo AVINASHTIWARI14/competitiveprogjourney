@@ -1,10 +1,10 @@
 class Solution {
-    bool pali(string a) {
+    bool pali(string &a) {
         int i = 0;
         int j = a.size() - 1;
         while (i <= j) {
             if (a[i] != a[j]) {
-             return false;
+                return false;
             }
             i++;
             j--;
@@ -23,13 +23,13 @@ public:
             }
         }
         for (int i = 0; i < a.size(); i++) {
-            
-            if(a[i]>='A'&&a[i]<='Z'){
-                a[i]+=32;
+
+            if (a[i] >= 'A' && a[i] <= 'Z') {
+                a[i] += 32;
             }
         }
-         for(int i=0;i<a.size();i++){
-            cout<<a[i];
+        for (int i = 0; i < a.size(); i++) {
+            cout << a[i];
         }
 
         return pali(a);
