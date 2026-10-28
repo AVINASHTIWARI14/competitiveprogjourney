@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0198-house-robber) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0443-string-compression) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0628-maximum-product-of-three-numbers) |
