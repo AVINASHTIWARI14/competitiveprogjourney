@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3074-apple-redistribution-into-boxes) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3606-coupon-code-validator](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3606-coupon-code-validator) |
