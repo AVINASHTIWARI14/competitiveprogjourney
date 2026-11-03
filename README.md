@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0771-jewels-and-stones) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1768-merge-strings-alternately) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2109-adding-spaces-to-a-string](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2109-adding-spaces-to-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
