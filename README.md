@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0733-flood-fill) |
+| [1267-count-servers-that-communicate](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1207-unique-number-of-occurrences) |
+| [1267-count-servers-that-communicate](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1386-cinema-seat-allocation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1441-build-an-array-with-stack-operations) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1267-count-servers-that-communicate) |
 | [2748-number-of-beautiful-pairs](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2748-number-of-beautiful-pairs) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -218,12 +221,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1267-count-servers-that-communicate) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0547-number-of-provinces) |
+| [1267-count-servers-that-communicate](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1267-count-servers-that-communicate) |
 ## Graph Theory
 |  |
 | ------- |
@@ -237,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1267-count-servers-that-communicate) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/1672-richest-customer-wealth) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/AVINASHTIWARI14/competitiveprogjourney/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
